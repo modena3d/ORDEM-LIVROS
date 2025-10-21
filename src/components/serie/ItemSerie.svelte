@@ -17,7 +17,7 @@
             <span class="text-sm text-zinc-400 text-justify"
                 >{serie.descricao}</span
             >
-            <button>Leia Mais</button>
+            <button class="botao azul self-end">Leia Mais</button>
         </div>
     </a>
 {/if}
